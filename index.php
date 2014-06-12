@@ -122,7 +122,7 @@ if (isset($_GET["zeitraum"])) {
 						<select id="Month" "style="width:85px" >
 							<option value="1">Jan</option>
 							<option value="2">Feb</option>
-							<option value="3">Mär</option>
+							<option value="3">M&auml;r</option>
 							<option value="4">Apr</option>
 							<option value="5">Mai</option>
 							<option value="6">Jun</option>
@@ -174,9 +174,9 @@ if (isset($_GET["zeitraum"])) {
 		<label class="closeIMG" id="closeIMG" for="info1">schließen</label>
 		<p>
 			<b>Kreisdiagramm:</b></br>Zeigt die prozentuale Belegung eines Raums zu einem genauen Zeitpunkt in einem Kreisdiagramm an. </br></br>
-			<b>Balkendiagramm:</b></br> Zeigt die durchschnittliche Belegung eines Raums für einen ausgewählten Zeitraum in einem Balkendiagramm an.</br></br>
-			<b>Flächendiagramm:</b></br> Zeigt die durchschnittliche Belegung eines Raums für einen ausgewählten Zeitraum unter Berücksichtigung der Uhrzeiten in einem Flächendiagramm an.	</br></br>
-			<b>Heatmap:</b></br> Zeigt die prozentuale Belegung eines Raums in einem ausgewählten Zeitraum zu verschiedenen Uhrzeiten an.</br></br>
+			<b>Balkendiagramm:</b></br> Zeigt die durchschnittliche Belegung eines Raums f&uuml;r einen ausgew&auml;hlten Zeitraum in einem Balkendiagramm an.</br></br>
+			<b>Fl&auml;chendiagramm:</b></br> Zeigt die durchschnittliche Belegung eines Raums f&uuml;r einen ausgew&auml;hlten Zeitraum unter Ber&uuml;cksichtigung der Uhrzeiten in einem Flächendiagramm an.	</br></br>
+			<b>Heatmap:</b></br> Zeigt die prozentuale Belegung eines Raums in einem ausgew&auml;hlten Zeitraum zu verschiedenen Uhrzeiten an.</br></br>
 		</p>
 	</span>
     
