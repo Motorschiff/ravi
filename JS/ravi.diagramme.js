@@ -285,8 +285,8 @@ function rdSetOptions() {
 			printChart: 'Diagramm drucken',
 			resetZoom: 'Zoom zuruecksetzen',
 			resetZoomTitle: 'Zoomansicht 1:1',
-			months: ['Januar', 'Februar', 'Maerz', 'April', 'Mai', 'Juni',  'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'],
-			shortMonths: ['Jan', 'Feb', 'Maer', 'Apr', 'Mai', 'Jun',  'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dez'],
+			months: ['Januar', 'Februar', 'M\u00e4rz', 'April', 'Mai', 'Juni',  'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'],
+			shortMonths: ['Jan', 'Feb', 'M\u00e4r', 'Apr', 'Mai', 'Jun',  'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dez'],
 			weekdays: ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag']
 		}
 	});
